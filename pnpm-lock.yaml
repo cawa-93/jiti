@@ -37,7 +37,7 @@ specifiers:
   mkdirp: ^1.0.4
   mlly: ^0.5.16
   object-hash: ^3.0.0
-  pathe: ^0.3.9
+  pathe: ^1.0.0
   pirates: ^4.0.5
   pkg-types: ^0.3.6
   semver: ^7.3.8
@@ -87,7 +87,7 @@ devDependencies:
   mkdirp: 1.0.4
   mlly: 0.5.16
   object-hash: 3.0.0
-  pathe: 0.3.9
+  pathe: 1.0.0
   pirates: 4.0.5
   pkg-types: 0.3.6
   semver: 7.3.8
@@ -3646,6 +3646,10 @@ packages:
 
   /pathe/0.3.9:
     resolution: {integrity: sha512-6Y6s0vT112P3jD8dGfuS6r+lpa0qqNrLyHPOwvXMnyNTQaYiwgau2DP3aNDsR13xqtGj7rrPo+jFUATpU6/s+g==}
+    dev: true
+
+  /pathe/1.0.0:
+    resolution: {integrity: sha512-nPdMG0Pd09HuSsr7QOKUXO2Jr9eqaDiZvDwdyIhNG5SHYujkQHYKDfGQkulBxvbDHz8oHLsTgKN86LSwYzSHAg==}
     dev: true
 
   /pathval/1.1.1:
